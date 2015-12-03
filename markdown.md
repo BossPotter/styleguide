@@ -8,12 +8,9 @@ Markdown 编写规范
 文档中使用的关键字「MUST」,「MUST NOT」,「REQUIRED」,「SHALL」,「SHALL
 NOT」,「SHOULD」,「SHOULD NOT」,「RECOMMENDED」,「MAY」和「OPTIONAL」在 [RFC2119](http://oss.org.cn/man/develop/rfc/RFC2119.txt) 中有说明。
 
-**还未定稿，对规范中提及的点有不赞同的欢迎[提出 issues](https://github.com/fex-team/styleguide/issues/new)（请添加 `markdown` 标签）讨论。**
-
 ## 规则
 
 * 后缀必须「MUST」使用 `.md`。
-* 文件名必须「MUST」使用小写，多个单词之间使用`-`分隔。
 * 文件编码必须「MUST」用 UTF-8。
 * 文档标题应该「SHOULD」这样写。
 
